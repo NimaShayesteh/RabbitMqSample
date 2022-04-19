@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4u7Xg38irkDs7CzEDRg7uwHyk5p/9hYARkoGlhYEYi1dlpKTgXM6lLwqmJ7daupga+LH6rFZNf8F0K3TfQn97A==",
+  "success": true,
+  "projectFilePath": "D:\\RabbitMQTest\\subscriber\\reciever\\reciever.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TEFAS-0023\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\TEFAS-0023\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\TEFAS-0023\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

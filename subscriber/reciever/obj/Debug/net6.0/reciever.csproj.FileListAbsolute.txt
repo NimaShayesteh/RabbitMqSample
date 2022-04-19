@@ -1,0 +1,17 @@
+D:\RabbitMQTest\subscriber\reciever\bin\Debug\net6.0\reciever.exe
+D:\RabbitMQTest\subscriber\reciever\bin\Debug\net6.0\reciever.deps.json
+D:\RabbitMQTest\subscriber\reciever\bin\Debug\net6.0\reciever.runtimeconfig.json
+D:\RabbitMQTest\subscriber\reciever\bin\Debug\net6.0\reciever.dll
+D:\RabbitMQTest\subscriber\reciever\bin\Debug\net6.0\ref\reciever.dll
+D:\RabbitMQTest\subscriber\reciever\bin\Debug\net6.0\reciever.pdb
+D:\RabbitMQTest\subscriber\reciever\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\RabbitMQTest\subscriber\reciever\obj\Debug\net6.0\reciever.csproj.AssemblyReference.cache
+D:\RabbitMQTest\subscriber\reciever\obj\Debug\net6.0\reciever.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMQTest\subscriber\reciever\obj\Debug\net6.0\reciever.AssemblyInfoInputs.cache
+D:\RabbitMQTest\subscriber\reciever\obj\Debug\net6.0\reciever.AssemblyInfo.cs
+D:\RabbitMQTest\subscriber\reciever\obj\Debug\net6.0\reciever.csproj.CoreCompileInputs.cache
+D:\RabbitMQTest\subscriber\reciever\obj\Debug\net6.0\reciever.csproj.CopyComplete
+D:\RabbitMQTest\subscriber\reciever\obj\Debug\net6.0\reciever.dll
+D:\RabbitMQTest\subscriber\reciever\obj\Debug\net6.0\ref\reciever.dll
+D:\RabbitMQTest\subscriber\reciever\obj\Debug\net6.0\reciever.pdb
+D:\RabbitMQTest\subscriber\reciever\obj\Debug\net6.0\reciever.genruntimeconfig.cache

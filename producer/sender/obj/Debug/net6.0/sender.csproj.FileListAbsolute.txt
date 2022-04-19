@@ -1,0 +1,17 @@
+D:\RabbitMQTest\producer\sender\bin\Debug\net6.0\sender.exe
+D:\RabbitMQTest\producer\sender\bin\Debug\net6.0\sender.deps.json
+D:\RabbitMQTest\producer\sender\bin\Debug\net6.0\sender.runtimeconfig.json
+D:\RabbitMQTest\producer\sender\bin\Debug\net6.0\sender.dll
+D:\RabbitMQTest\producer\sender\bin\Debug\net6.0\ref\sender.dll
+D:\RabbitMQTest\producer\sender\bin\Debug\net6.0\sender.pdb
+D:\RabbitMQTest\producer\sender\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\RabbitMQTest\producer\sender\obj\Debug\net6.0\sender.csproj.AssemblyReference.cache
+D:\RabbitMQTest\producer\sender\obj\Debug\net6.0\sender.GeneratedMSBuildEditorConfig.editorconfig
+D:\RabbitMQTest\producer\sender\obj\Debug\net6.0\sender.AssemblyInfoInputs.cache
+D:\RabbitMQTest\producer\sender\obj\Debug\net6.0\sender.AssemblyInfo.cs
+D:\RabbitMQTest\producer\sender\obj\Debug\net6.0\sender.csproj.CoreCompileInputs.cache
+D:\RabbitMQTest\producer\sender\obj\Debug\net6.0\sender.csproj.CopyComplete
+D:\RabbitMQTest\producer\sender\obj\Debug\net6.0\sender.dll
+D:\RabbitMQTest\producer\sender\obj\Debug\net6.0\ref\sender.dll
+D:\RabbitMQTest\producer\sender\obj\Debug\net6.0\sender.pdb
+D:\RabbitMQTest\producer\sender\obj\Debug\net6.0\sender.genruntimeconfig.cache
